@@ -5,3 +5,5 @@
 !_TAG_PROGRAM_NAME	Vimwiki Tags
 !_TAG_PROGRAM_URL	https://github.com/vimwiki/vimwiki
 !_TAG_PROGRAM_VERSION	2.5
+书单	books.md	6;"	vimwiki:books\tbooks#书单
+阅读	books.md	6;"	vimwiki:books\tbooks#阅读
